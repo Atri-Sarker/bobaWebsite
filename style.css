@@ -31,3 +31,7 @@ button:hover {
     width: 200px;
     height: 100px;
 }
+
+.invisibleMessage {
+    color: aqua;
+}
