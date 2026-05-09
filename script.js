@@ -2,6 +2,6 @@ const gojoGif = document.getElementById('gojoGif');
 const gojoButton = document.getElementById('gojoButtOn');
 
 gojoButton.addEventListener('click', () => {
-    // Increase image size
+    // Change Color of the background to purple
     document.getElementById('BODY').style.backgroundColor = 'purple';
 });
